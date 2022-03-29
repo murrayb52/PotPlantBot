@@ -1,2 +1,2 @@
 # PotPlantBot
-A moisture sensor for soil to help with regulating the watering of indoor pot plants.
+A moisture sensor designed to help with regulating the watering of indoor pot plants.
